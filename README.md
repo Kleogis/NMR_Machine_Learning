@@ -11,7 +11,7 @@ Collaborators:
 | [Viktoriia Liu](https://github.com/Kleogis) |Kleogis  |
 | [Hsin-Wen Chang](https://github.com/Polarbeargo) | Bearbear |
 | [Daniel Montilla](https://github.com/montilladaniel) | Daniel Montilla |
-| []() |  |
+| [Anne Losch](https://github.com/mathisme) |  Anne L|
 | []() |  |
 | []() |  |
 
