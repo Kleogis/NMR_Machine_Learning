@@ -8,7 +8,7 @@ Collaborators:
 | Name | Slack Name |
 | ------------------------- | ------------------------- |
 | []() |  | 
-| []() |  |
+| [Viktoriia Liu](https://github.com/Kleogis) |Kleogis  |
 | [Hsin-Wen Chang](https://github.com/Polarbeargo) | Bearbear |
 | []() |  |
 | []() |  |
