@@ -12,7 +12,7 @@ Collaborators:
 | [Hsin-Wen Chang](https://github.com/Polarbeargo) | Bearbear |
 | [Daniel Montilla](https://github.com/montilladaniel) | Daniel Montilla |
 | [Anne Losch](https://github.com/mathisme) |  Anne L|
-| []() |  |
+| [Etendra Verma](https://github.com/etendra2501) | Etendra Verma |
 | []() |  |
 
 
